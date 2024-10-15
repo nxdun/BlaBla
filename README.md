@@ -1,6 +1,5 @@
 # BlaBla
 THIS REPOSITORY IS USED FOR HOSTING PUBLIC FILES
 
-So hi
-then bye
+
 ```o
